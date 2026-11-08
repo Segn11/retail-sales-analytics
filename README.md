@@ -8,7 +8,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visuals-3F4F75.svg)](https://plotly.com/)
 [![Status](https://img.shields.io/badge/Status-Completed%20%26%20Verified-success.svg)]()
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Segn11/retail-sales-analytics&branch=main&mainModule=app.py)
+[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg](https://segn11-retail-sales-analytics-app-a5krie.streamlit.app/))](https://share.streamlit.io/deploy?repository=Segn11/retail-sales-analytics&branch=main&mainModule=app.py)
 
 ---
 
