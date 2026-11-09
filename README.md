@@ -1,4 +1,4 @@
- # 📊 E-Commerce Customer Analytics & Strategic Revenue Optimization
+# 📊 E-Commerce Customer Analytics & Strategic Revenue Optimization
 > **An End-to-End Data Analytics Portfolio Project**  
 > *Data Cleaning, RFM Customer Behavioral Segmentation, In-Memory SQL Analytics (DuckDB), and Enterprise Power BI Architecture.*
 
